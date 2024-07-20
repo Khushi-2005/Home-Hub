@@ -2,7 +2,7 @@
 
 
 
-Homyz is a modern real estate web application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a platform for users to search, list, book,  and explore various properties, whether for sale or rent. The application offers a user-friendly interface, advanced search options, and a seamless user experience.
+HomeHub is a modern real estate web application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a platform for users to search, list, book,  and explore various properties, whether for sale or rent. The application offers a user-friendly interface, advanced search options, and a seamless user experience.
 
 ![image](https://github.com/Ananya01Agrawal/Real-estate-Booking-Website/assets/99130567/9dce86bd-771c-493a-821f-bce92039c688)
 
@@ -104,7 +104,3 @@ Contributions are welcome! Please follow these steps to contribute to the projec
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-## Contact
-
-1. [GITHUB](https://github.com/Ananya01Agrawal)
-2. [LINKEDIN](https://www.linkedin.com/in/ananya-agrawal-9727b2230/)
